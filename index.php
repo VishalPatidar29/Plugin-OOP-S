@@ -1,0 +1,3 @@
+<?php 
+// Custom Plugin Security
+?>

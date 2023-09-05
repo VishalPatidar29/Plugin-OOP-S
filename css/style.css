@@ -1,0 +1,23 @@
+.container{
+margin: 1px;
+padding: 5px;
+
+
+}
+
+#button {
+    transition-duration: 0.4s;
+    padding: 10px 20px;
+    margin: 8px 0;
+  }
+  
+  #button:hover {
+    background-color: #008CBA; /* Green */
+    color: white;
+  }
+
+  input[type=checkbox] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
